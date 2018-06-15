@@ -1,0 +1,4 @@
+1.MYSQL数据库gmc 表：user ，manuf，brand
+2.tomcat:7.0  eclipse: STS 
+3.访问网址:http://localhost:8080/gmc-team3/
+4.一个用户对应一个公司（系统设计可以实现添加多家公司）一个公司对应多家品牌
